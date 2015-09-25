@@ -225,7 +225,6 @@
 /bin/usleep
 /bin/uudecode
 /bin/uuencode
-/bin/vi
 /bin/watch
 /bin/wc
 /bin/wget

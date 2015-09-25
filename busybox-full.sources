@@ -20,7 +20,7 @@ coreutils/comm.c coreutils/expand.c coreutils/sum.c coreutils/fsync.c
 
 debianutils/mktemp.c debianutils/run_parts.c debianutils/which.c debianutils/pipe_progress.c
 
-editors/awk.c editors/cmp.c editors/diff.c editors/ed.c editors/patch.c editors/sed.c editors/vi.c
+editors/awk.c editors/cmp.c editors/diff.c editors/ed.c editors/patch.c editors/sed.c
 e2fsprogs/e2fs_lib.c e2fsprogs/chattr.c e2fsprogs/lsattr.c e2fsprogs/tune2fs.c
 
 findutils/find.c findutils/grep.c findutils/xargs.c
